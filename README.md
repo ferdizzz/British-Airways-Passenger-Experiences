@@ -6,7 +6,7 @@ Whether you are a traveller, an industry expert, or just curious, these insights
 Explore the Insights
 The analysis is available as a PDF document that you can view or download. To explore the insights, please click on the link below:
 
-View Insights on British Airways (PDF)
+[Click here to view my insights on British Airways](https://github.com/ferdizzz/British-Airways-Passenger-Experiences/blob/master/Presentation.pdf)
 
 Feel free to browse through the repository to explore the code, data, and other related materials used in this analysis. Your feedback and questions are welcome!
 
